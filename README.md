@@ -1,1 +1,1 @@
-# facebook-scrapper-api
+To use it, you just need to place your API KEY from the Facebook Scrapper API on RapidAPI (link: https://rapidapi.com/krasnoludkolo/api/facebook-scraper3/), and once you’ve added the key in the app.js file where it says "API KEY FROM RAPIDAPI FACEBOOK SCRAPER", you’ll be able to use the AI correctly and fully functional.
